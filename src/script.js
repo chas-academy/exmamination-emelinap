@@ -1,3 +1,4 @@
+//Slutgiltig inlämning
 // 1. Skapa arrayer för inkomster och utgifter
 let incomes = [];
 let expenses = [];

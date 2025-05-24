@@ -1,3 +1,4 @@
+// Inlämning 
 // Arrayer för inkomster och utgifter
 const incomes = [];
 const expenses = [];
